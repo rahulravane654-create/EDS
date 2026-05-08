@@ -1,4 +1,4 @@
-# EDS## 🤖 Essentials of Data Science Lab (2304102L)
+# 🤖 Essentials of Data Science Lab (2304102L)
 
 <div align="center">
 
@@ -21,8 +21,8 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 |  Certificate        |  Issuer                  | 🔗 Link                                                                                                               |
 | ------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| Python Essentials 1 | Cisco Networking Academy | [View Certificate](Python_Essentials_1_certificate_chinukaushik7245-gmail-com_7bd1fa26-873f-4224-9a3d-905383918ec7_d086b0094a5090ea895249161ffe5d95.pdf) |
-| Python Essentials 2 | Cisco Networking Academy | [View Certificate](Python_Essentials_2_certificate_chinukaushik7245-gmail-com_53ccd6dc-89a2-4fdc-95c3-ba12fe1fb6da_3d1ce20c3578a6001cbe1cdb22633ec9.pdf) |
+| Python Essentials 1 | Cisco Networking Academy | [View Certificate](Python_Essentials_1_certificate_rahulravane654-gmail-com_6e51c83c-cec8-450e-b6e6-257122b39306.pdf) |
+| Python Essentials 2 | Cisco Networking Academy | [View Certificate](Python_Essentials_2_certificate_rahulravane654-gmail-com_e5931138-b134-4718-a451-a9be89fb39e0.pdf) |
 
 ---
 
