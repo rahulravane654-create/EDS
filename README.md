@@ -22,7 +22,7 @@ This repository contains all practical assignments, lab work, and self-study tas
 |  Certificate        |  Issuer                  | 🔗 Link                                                                                                               |
 | ------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | Python Essentials 1 | Cisco Networking Academy | [View Certificate](Python_Essentials_1_certificate_rahulravane654-gmail-com_6e51c83c-cec8-450e-b6e6-257122b39306.pdf) |
-| Python Essentials 2 | Cisco Networking Academy | [View Certificate](Python_Essentials_2_certificate_rahulravane654-gmail-com_e5931138-b134-4718-a451-a9be89fb39e0.pdf) |
+| Python Essentials 2 | Cisco Networking Academy | [View Certificate](Python_Essentials_2.._certificate_rahulravane654-gmail-com_e5931138-b134-4718-a451-a9be89fb39e0.pdf) |
 
 ---
 
