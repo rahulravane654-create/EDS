@@ -3,7 +3,7 @@
 <div align="center">
 
 **MIT Academy of Engineering**
- *Second Year B.Tech Computer Engineering (Rev. 2023 NEP)*
+ *First Year B.Tech Mechanical Engineering (Rev. 2023 NEP)*
  **Academic Year:** 2025–2026
 
 </div>
